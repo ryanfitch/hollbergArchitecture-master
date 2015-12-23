@@ -1,0 +1,35 @@
+body {
+	font-family: roboto;
+	background-color: #333333;
+}
+
+.navbar {
+	font-size: 1.3em;
+}
+
+.navbar-brand {
+	font-size: 1.6em;
+}
+
+/*.hollbergLogo {
+	width: 464;
+}*/
+
+.bio-about {
+	color: white;
+	margin: auto;
+	width: 60%;
+	background-color: rgba(0, 0, 0, .2);
+	border-radius: 15px;
+	box-shadow: 1px 1px 5px (0, 0, 0);
+}
+
+.bio-p {
+	text-align: justify;
+	text-justify: inter-word;
+	letter-spacing: 1.8px;
+}
+
+.bio-signature {
+	text-align: right;
+}
