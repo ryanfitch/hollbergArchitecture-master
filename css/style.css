@@ -49,9 +49,10 @@ body {
 .contact-about {
 	color: white;
 	margin: auto;
-	width: 60%;
+	width: 50%;
 	background-color: rgba(0, 0, 0, .6);
 	border-radius: 10px;
+	text-align: auto;
 	/*box-shadow: 1px 1px 5px (0, 0, 0);*/
 }
 
@@ -64,5 +65,10 @@ body {
 .contact-info {
 	margin-left: 25%;
 	margin-right: 50px;
+}
+
+.portfolio-all {
+	color: white;
+
 }
 
