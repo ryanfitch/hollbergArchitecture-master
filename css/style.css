@@ -16,15 +16,16 @@ body {
 }*/
 
 .bio-body {
-	background-image: url("https://images.unsplash.com/22/brick-wall.JPG?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d79dc45ba24cc3d4cf91887f03f02f40");
-	/*background-image: url("images/bg.jpg");*/
+	background-image: url("../images/bioBG.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 .bio-about {
 	color: white;
 	margin: auto;
 	width: 60%;
-	background-color: rgba(0, 0, 0, .2);
+	background-color: rgba(0, 0, 0, .6);
 	border-radius: 10px;
 	/*box-shadow: 1px 1px 5px (0, 0, 0);*/
 }
@@ -38,3 +39,30 @@ body {
 .bio-signature {
 	text-align: right;
 }
+
+.contact-body {
+	background-image: url("../images/contactBG.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.contact-about {
+	color: white;
+	margin: auto;
+	width: 60%;
+	background-color: rgba(0, 0, 0, .6);
+	border-radius: 10px;
+	/*box-shadow: 1px 1px 5px (0, 0, 0);*/
+}
+
+.contact-p {
+	text-align: justify;
+	text-justify: inter-word;
+	letter-spacing: 1.4px;
+}
+
+.contact-info {
+	margin-left: 25%;
+	margin-right: 50px;
+}
+
